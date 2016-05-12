@@ -41,3 +41,5 @@ Fork the project, create a feature branch, and send us a pull request.
 Please read the CLA carefully before submitting your contribution to Mercari.
 
 https://www.mercari.com/cla/
+
+test
